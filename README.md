@@ -6,6 +6,7 @@
   - [Identity Mappings in Deep Residual Networks]() Kaiming. He, Xiangyu. Zhang, Shaoqing. Ren, Jian. Sun. ECCV, 2016.
   - [Deep Residual Networks: Deep Learning Gets Way Deeper]() Kaiming He. ICML Tutorial, 2016.
   - [Residual Networks Behave Like Ensembles of Relatively Shallow Networks]() Andreas. Veit, Micheal. Wilber, Serge. Belongie. 2016.
+  - [Very deep convolutional networks for large-scale image recognition]() K. Simonyan and A. Zisserman. 2014.
 
 ## Loss & Optimization
 
@@ -15,7 +16,6 @@
   - [Escaping from Saddle Points](https://arxiv.org/abs/1503.02101) - Online Stochastic Gradients for Tensor Decomposition. Rong Ge, Furong Huang, Chi Jin, Yang Yuan.
   - [Deep Learning without Poor Local Minima](https://arxiv.org/abs/1605.07110) K. Kawaguchi.
 
-
 ### Optimization Algorithm
 
   - [rmsprop: Divide the gradient by a running average of its recent magnitude](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf) G. Hinton, Nitish Srivastava, Kevin Swersky.
@@ -24,7 +24,18 @@
   - [Adam - A Method for Stochastic Optimization](http://arxiv.org/abs/1412.6980v8) Diederik P. Kingma, Jimmy Ba.
   - [Incorporating Nesterov Momentum into Adam](http://cs229.stanford.edu/proj2015/054_report.pdf) Timothy Dozat.
   
+### Gradient Vanishing & Activations
+
+### Others
+
+ - [Batch normalization: Accelerating deep network training by reducing internal covariate shift]() S. Loffe and C. Szegedy.
   
+## Regularization
+
+ - [Dropout: A simple way to prevent neural networks from overfitting]()  N. Srivastava et al.
+ - [Improving neural networks by preventing co-adaptation of feature detectors]()  G. Hinton et al.
+
+
 # Applications
 
 ## Embeddings
@@ -39,6 +50,7 @@
      Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton. NIPS.
   - [Deep Residual Learning for Image Recognition]() Kaiming. He, Xiangyu. Zhang, Shaoqing. Ren, Jian. Sun. CVPR, 2016.
   - [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852) Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+  - [OverFeat: Integrated recognition, localization and detection using convolutional networks]() P. Sermanet et al.
 
 ## Text Classification
 
@@ -75,3 +87,15 @@
   - [Knowledge Graph Embedding via Dynamic Mapping Matrix]() G. Ji, Shizhu He, Liheng Xu, Kang Liu, Jun Zhao. ACL, 2015.
   - [Reasoning With Neural Tensor Networks for Knowledge Base Completion]() R. Socher, Danqi Chen, C. Manning, A. Ng. NIPS, 2013.
   
+## Generative Adversarial Networks
+  
+  - [Generative adversarial nets]()  I. Goodfellow et al.
+  - [Improved techniques for training GANs]() T. Salimans et al.
+  - [Wasserstein GAN](https://arxiv.org/abs/1701.07875) Martin Arjovsky, Soumith Chintala, Léon Bottou
+
+## Deep Reinforcement Learning
+  - [Human-level control through deep reinforcement learning]() V. Mnih et al.
+  - [Playing atari with deep reinforcement learning ]() V. Mnih et al.
+  - [Asynchronous methods for deep reinforcement learning]() V. Mnih et al.
+  - [Deep Reinforcement Learning with Double Q-Learning]() H. Hasselt et al.
+  - [Mastering the game of Go with deep neural networks and tree search]() D. Silver et al.
