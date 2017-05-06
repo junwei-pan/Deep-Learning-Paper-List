@@ -38,28 +38,22 @@
 
 # Applications
 
-## Embeddings
+## Natural Language Processing
+
+### Embeddings
 
   - [Distributed Representations of Words and Phrases and their Compositionality]() T. Mikolov, I. Sutskever, Kai Chen, G. Corrado, J. Dean
   - [Representations in Vector Space Efficient Estimation of Word Representations in Vector Space]() T. Mikolov, Kai Chen, G. Corrado, J. Dean
   - [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf) Jeffrey Pennington, Richard Socher, Christopher D. Manning
 
-## Image Classification
-
-  - [ImageNet Classification with Deep Convolutional
-     Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton. NIPS.
-  - [Deep Residual Learning for Image Recognition]() Kaiming. He, Xiangyu. Zhang, Shaoqing. Ren, Jian. Sun. CVPR, 2016.
-  - [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852) Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-  - [OverFeat: Integrated recognition, localization and detection using convolutional networks]() P. Sermanet et al.
-
-## Text Classification
+### Text Classification
 
   - [Convolutional Neural Networks for Sentence Classificatio]() Yoon Kim.
   - [Bag of Tricks for Efficient Text Classification]() A. Joulin, E. Grave, P. Bojanowski, T. Mikolov. 
   - [Text understanding from scratch]()  Xiang Zhang and Yann LeCun. 2015.
   - [Character-level convolutional networks for text classification]()  Xiang Zhang, Junbo Zhao, and Yann LeCun. NIPS, 2015.
 
-## Machine Translation
+### Machine Translation
 
   - [Statistical Phrase-based Translation]() P. Koehn, F. J. Och, D. Marcu. NAACL, 2003.
   - [On the Properties of Neural Machine Translation: Encoder-Decoder Approaches]() K. Cho, B. v. Merrienboer, D. Bahdanau, Y. Bengio
@@ -71,13 +65,25 @@
   - [Neural Machine Translation of Rare Words with Subword Units]() R. Sennrich, B. Haddow, A. Birch.
   - [Deep Residual Learning for Image Recognition]() Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun. CVPR, 2015.
 
-## Question Answering
+### Question Answering
 
   - [Memory Networks. J. Weston, S. Chopra, A. Bordes]() arXiv, 2015.
   - [End-to-End Memory Networks]() S. SukhbaatarM A. Szlam, J. Weston, R. Fergus. arXiv, 2015.
   - [Iterative Alternating Neural Attention for Machine Reading]() A. Sordoni, P. Bachman, Y. Bengio. arXiv, 2016.
   - [Key-Value Memory Networks for Directly Reading Documents]() A. Miller, A. Fisch, J. Dodge, A. Karimi, A. Bordes, J. Weston. arXiv, 2016.
   - [Question Answering with Subgraph Embedding]() A. Bordes, J. Weston, S. Chopra. arXiv, 2014
+
+### Other Topics
+
+  - [Dependency Parsing]()
+
+## Image Classification
+
+  - [ImageNet Classification with Deep Convolutional
+     Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton. NIPS.
+  - [Deep Residual Learning for Image Recognition]() Kaiming. He, Xiangyu. Zhang, Shaoqing. Ren, Jian. Sun. CVPR, 2016.
+  - [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852) Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+  - [OverFeat: Integrated recognition, localization and detection using convolutional networks]() P. Sermanet et al.
 
 ## Knowledge Graph
 
