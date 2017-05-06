@@ -75,7 +75,7 @@
 
 ### Other Topics
 
-  - [Dependency Parsing]()
+  - [Dependency Parsing](https://github.com/kemaswill/Deep-Learning-Paper-List/blob/master/NLP/Other_Topics_of_NLP.md)
 
 ## Image Classification
 
