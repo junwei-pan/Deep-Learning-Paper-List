@@ -23,6 +23,8 @@
   - [Adadelta - an adaptive learning rate method](http://arxiv.org/abs/1212.5701) Matthew D. Zeiler
   - [Adam - A Method for Stochastic Optimization](http://arxiv.org/abs/1412.6980v8) Diederik P. Kingma, Jimmy Ba.
   - [Incorporating Nesterov Momentum into Adam](http://cs229.stanford.edu/proj2015/054_report.pdf) Timothy Dozat.
+  - [Large Scale Distributed Deep Networks](), Jeffrey Dean, Greg S. Corrado, Rajat Monga, Kai Chen, Matthieu Devin, Quoc V. Le, Mark Z. Mao, Marc’Aurelio Ranzato, Andrew Senior, Paul Tucker, Ke Yang, Andrew Y. Ng. NIPS, 2012.
+  - [Asynchronous Stochastic Gradient Descent with Delay Compensation for Distributed Deep Learning](), Shuxin Zheng, Qi Meng, Taifeng Wang, Wei Chen, Nenghai Yu, Zhi-Ming Ma, Tie-Yan Liu.
   
 ### Gradient Vanishing & Activations
 
