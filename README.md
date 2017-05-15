@@ -1,5 +1,12 @@
 # Deep-Learning-Paper-List
 
+## Excellent Slides
+
+  - [Deep Reinforcement Learning](http://hunch.net/~beygel/deep_rl_tutorial.pdf) David Silver. ICML 2016 Tutorial.
+  - [Memory Networks for Language Understanding](http://www.thespermwhale.com/jaseweston/icml2016/icml2016-memnn-tutorial.pdf) Jason Weston. ICML 2016 Tutorial.
+  - [Deep Residual Networks: Deep Learning Gets Way Deeper](http://icml.cc/2016/tutorials/icml2016_tutorial_deep_residual_networks_kaiminghe.pdf) Kaiming He. ICML 2016 Tutorial.
+  - [Recent Advances in Non-Convex Optimization](http://newport.eecs.uci.edu/anandkumar/slides/icml2016-tutorial.pdf) Anima Anandkumar. ICML 2016 Tutorial.
+
 ## Architecture
 
   - [Deep Residual Learning for Image Recognition]() Kaiming. He, Xiangyu. Zhang, Shaoqing. Ren, Jian. Sun. CVPR, 2016.
