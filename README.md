@@ -51,9 +51,11 @@
 
 ### Embeddings
 
+  - [Efficient Estimation of Word Representations in Vector Space]() Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean
   - [Distributed Representations of Words and Phrases and their Compositionality]() T. Mikolov, I. Sutskever, Kai Chen, G. Corrado, J. Dean
   - [Representations in Vector Space Efficient Estimation of Word Representations in Vector Space]() T. Mikolov, Kai Chen, G. Corrado, J. Dean
   - [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf) Jeffrey Pennington, Richard Socher, Christopher D. Manning
+  - [Neural Word Embedding as Implicit Matrix Factorization]() O. Levy, Y. Goldberg.
 
 ### Text Classification
 
