@@ -7,8 +7,18 @@
   - [Deep Residual Networks: Deep Learning Gets Way Deeper](http://icml.cc/2016/tutorials/icml2016_tutorial_deep_residual_networks_kaiminghe.pdf) Kaiming He. ICML 2016 Tutorial.
   - [Recent Advances in Non-Convex Optimization](http://newport.eecs.uci.edu/anandkumar/slides/icml2016-tutorial.pdf) Anima Anandkumar. ICML 2016 Tutorial.
 
+
 ## Architecture
 
+### Recurrent Neural Networks(RNNs)
+  - [Long short-term memory](http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf) ** LSTM ** S. Hochreiter and J. Schmidhuber.
+  - [On the properties of neural machine translation: Encoder-decoder approaches](https://arxiv.org/abs/1409.1259) ** GRU ** Kyunghyun Cho, Bart van Merrienboer, Dzmitry Bahdanau, Yoshua Bengio.
+  - [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555) ** LSTM v.s. GRU ** Junyoung Chung, Caglar Gulcehre, KyungHyun Cho, Yoshua Bengio.
+  - [Training RNNs as Fast as CNNs](https://arxiv.org/abs/1709.02755) ** SRU ** Tao Lei, Yu Zhang
+  - [Optimizing performance of recurrent neural networks on gpus](https://arxiv.org/abs/1604.01946) ** cuDNN LSTM ** Jeremy Appleyard, Tomas Kocisky, Phil Blunsom.
+
+
+### Convolutional Neural Networks(CNNs)
   - [Deep Residual Learning for Image Recognition]() Kaiming. He, Xiangyu. Zhang, Shaoqing. Ren, Jian. Sun. CVPR, 2016.
   - [Identity Mappings in Deep Residual Networks]() Kaiming. He, Xiangyu. Zhang, Shaoqing. Ren, Jian. Sun. ECCV, 2016.
   - [Deep Residual Networks: Deep Learning Gets Way Deeper]() Kaiming He. ICML Tutorial, 2016.
