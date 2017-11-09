@@ -11,11 +11,11 @@
 ## Architecture
 
 ### Recurrent Neural Networks(RNNs)
-  - [Long short-term memory](http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf) ** LSTM ** S. Hochreiter and J. Schmidhuber.
-  - [On the properties of neural machine translation: Encoder-decoder approaches](https://arxiv.org/abs/1409.1259) ** GRU ** Kyunghyun Cho, Bart van Merrienboer, Dzmitry Bahdanau, Yoshua Bengio.
-  - [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555) ** LSTM v.s. GRU ** Junyoung Chung, Caglar Gulcehre, KyungHyun Cho, Yoshua Bengio.
-  - [Training RNNs as Fast as CNNs](https://arxiv.org/abs/1709.02755) ** SRU ** Tao Lei, Yu Zhang
-  - [Optimizing performance of recurrent neural networks on gpus](https://arxiv.org/abs/1604.01946) ** cuDNN LSTM ** Jeremy Appleyard, Tomas Kocisky, Phil Blunsom.
+  - [Long short-term memory](http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf) **LSTM** S. Hochreiter and J. Schmidhuber.
+  - [On the properties of neural machine translation: Encoder-decoder approaches](https://arxiv.org/abs/1409.1259) **GRU** Kyunghyun Cho, Bart van Merrienboer, Dzmitry Bahdanau, Yoshua Bengio.
+  - [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555) **LSTM v.s. GRU** Junyoung Chung, Caglar Gulcehre, KyungHyun Cho, Yoshua Bengio.
+  - [Training RNNs as Fast as CNNs](https://arxiv.org/abs/1709.02755) **SRU **Tao Lei, Yu Zhang
+  - [Optimizing performance of recurrent neural networks on gpus](https://arxiv.org/abs/1604.01946) **cuDNN LSTM** Jeremy Appleyard, Tomas Kocisky, Phil Blunsom.
 
 
 ### Convolutional Neural Networks(CNNs)
@@ -126,3 +126,12 @@
   - [Asynchronous methods for deep reinforcement learning]() V. Mnih et al.
   - [Deep Reinforcement Learning with Double Q-Learning]() H. Hasselt et al.
   - [Mastering the game of Go with deep neural networks and tree search]() D. Silver et al.
+
+# Existing Problems
+
+  - [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199) Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, Rob Fergus.
+
+## Generalization
+
+  - [Understanding Deep Learning Requires Rethinking Generalization](https://arxiv.org/abs/1611.03530) Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals.
+  - [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412). Hongyi Zhang, Moustapha Cisse, Yann N. Dauphin, David Lopez-Paz.
