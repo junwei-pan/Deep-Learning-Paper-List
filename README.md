@@ -114,11 +114,13 @@
   - [Knowledge Graph Embedding via Dynamic Mapping Matrix]() G. Ji, Shizhu He, Liheng Xu, Kang Liu, Jun Zhao. ACL, 2015.
   - [Reasoning With Neural Tensor Networks for Knowledge Base Completion]() R. Socher, Danqi Chen, C. Manning, A. Ng. NIPS, 2013.
   
-## Generative Adversarial Networks
+## Generative Adversarial Networks(GAN)
   
-  - [Generative adversarial nets]()  I. Goodfellow et al.
-  - [Improved techniques for training GANs]() T. Salimans et al.
-  - [Wasserstein GAN](https://arxiv.org/abs/1701.07875) Martin Arjovsky, Soumith Chintala, Léon Bottou
+  - [Generative adversarial nets](https://arxiv.org/abs/1406.2661) ** GAN **  I. Goodfellow et al.
+  - [Wasserstein GAN](https://arxiv.org/abs/1701.07875) ** WGAN  ** Martin Arjovsky, Soumith Chintala, Léon Bottou
+  - [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) Mehdi Mirza, Simon Osindero
+  - [Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585) Augustus Odena, Christopher Olah, Jonathon Shlens 
+  - [Improved techniques for training GANs](https://arxiv.org/abs/1606.03498) T. Salimans et al.
 
 ## Deep Reinforcement Learning
   - [Human-level control through deep reinforcement learning]() V. Mnih et al.
