@@ -121,6 +121,8 @@
   - [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) Mehdi Mirza, Simon Osindero
   - [Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585) Augustus Odena, Christopher Olah, Jonathon Shlens 
   - [Improved techniques for training GANs](https://arxiv.org/abs/1606.03498) T. Salimans et al.
+  - [Semi-supervised Conditional GANs](https://arxiv.org/abs/1708.05789) Kumar Sricharan, Raja Bala, Matthew Shreve, Hui Ding, Kumar Saketh, Jin Sun.
+  - [Disguise Adversarial Networks for Click-through Rate Prediction](https://www.ijcai.org/proceedings/2017/0220.pdf) Yue Deng, Yilin Shen, Hongxia Jin.
 
 ## Deep Reinforcement Learning
   - [Human-level control through deep reinforcement learning]() V. Mnih et al.
