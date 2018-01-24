@@ -118,7 +118,7 @@
   
   - [Generative adversarial nets](https://arxiv.org/abs/1406.2661) **GAN**  I. Goodfellow et al.
   - [Wasserstein GAN](https://arxiv.org/abs/1701.07875) **WGAN** Martin Arjovsky, Soumith Chintala, Léon Bottou
-  - [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) Mehdi Mirza, Simon Osindero
+  - [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) [code](https://github.com/zhangqianhui/Conditional-Gans) Mehdi Mirza, Simon Osindero
   - [Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585) Augustus Odena, Christopher Olah, Jonathon Shlens 
   - [Improved techniques for training GANs](https://arxiv.org/abs/1606.03498) T. Salimans et al.
   - [Semi-supervised Conditional GANs](https://arxiv.org/abs/1708.05789) Kumar Sricharan, Raja Bala, Matthew Shreve, Hui Ding, Kumar Saketh, Jin Sun.
